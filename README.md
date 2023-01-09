@@ -25,6 +25,10 @@ Decimal : 6
 
 Network : TRC – 20
 
+Website : https://indrawsp.blogspot.com/
+
+Whitepaper Project : https://drive.google.com/file/d/1QHc5J02lkS86b3k2YVLh-47exxCwFx7I/view
+
 Blockexplorer : https://tronscan.org/#/token20/TNcvUX3P4fjspVLk14dxyNw5QzvTqHy3us
 
 Market : https://sunswap.com/#/scan/detail/TNcvUX3P4fjspVLk14dxyNw5QzvTqHy3us
